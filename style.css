@@ -1,9 +1,9 @@
 @font-face{
-	src: url("../fonts/lato/lato-regular.ttf");
+	src: url("https://cdn.statically.io/gh/CakCok/portal-sekolah/6761ad78/lato-regular.ttf");
 	font-family: "lato";
 }
 @font-face{
-	src: url("../fonts/raleway/Raleway-Regular.ttf");
+	src: url("https://cdn.statically.io/gh/CakCok/portal-sekolah/6761ad78/Raleway-Regular.ttf");
 	font-family: "raleway";
 }
 *{
